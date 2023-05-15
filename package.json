@@ -1,0 +1,19 @@
+{
+  "name": "constructor-js",
+  "version": "1.0.0",
+  "description": "javaScript",
+  "source": "src/index.html",
+  "scripts": {
+    "serve": "parcel -p 4200 --open",
+    "build": "parcel build --no-source-maps --no-cache"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "Anton <a@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
